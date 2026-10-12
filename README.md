@@ -1,4 +1,4 @@
-# Institute of Computing Lab Reservation System
+# Lab Reservation System
 
 A browser-based prototype for managing computer lab reservation requests at the Institute of Computing. Teachers can submit requests and check the schedule; coordinators can review pending requests.
 
